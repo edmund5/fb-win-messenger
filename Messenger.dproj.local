@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2015/04/11 14:55:59.000.458,=C:\Users\E5\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2015/04/11 14:59:57.000.419,C:\Users\E5\Documents\Embarcadero\Studio\Projects\Unit1.pas=E:\Edmund's Projects\Something Techie\Development\Desktop\Messenger for Windows — DXE7\Messenger VCL\MainUnit.pas</Transaction>
+    <Transaction>2015/04/11 14:59:57.000.419,C:\Users\E5\Documents\Embarcadero\Studio\Projects\Unit1.dfm=E:\Edmund's Projects\Something Techie\Development\Desktop\Messenger for Windows — DXE7\Messenger VCL\MainUnit.dfm</Transaction>
+    <Transaction>2015/04/11 15:00:03.000.775,C:\Users\E5\Documents\Embarcadero\Studio\Projects\Project1.dproj=E:\Edmund's Projects\Something Techie\Development\Desktop\Messenger for Windows — DXE7\Messenger VCL\Messenger.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
