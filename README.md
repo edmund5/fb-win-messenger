@@ -1,8 +1,6 @@
 # Messenger
 Windows app wrapper around [Facebook's stand-alone Messenger](https://www.messenger.com).
 
-> [Download latest release](https://fbwinmessenger.herokuapp.com/latest-release.zip)
-
 ![Screenshot](https://www.edmundcinco.com/projects/fbwinmessenger/screenshot.png)
 
 ### Credits
