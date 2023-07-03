@@ -1,7 +1,7 @@
 # Messenger
 Windows app wrapper around [Facebook's stand-alone Messenger](https://www.messenger.com).
 
-![Screenshot](https://www.edmundcinco.com/projects/fbwinmessenger/screenshot.png)
+![image](https://github.com/edmund5/fb-win-messenger/assets/299803/722ea212-bc38-4b23-be19-12386ed035ce)
 
 ### Credits
 
